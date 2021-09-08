@@ -19,7 +19,12 @@ The book can be purchased from Amazon at: https://www.amazon.com/dp/3030833550
 
 The field of Explainable AI addresses one of the most significant shortcomings of machine learning and deep learning algorithms today: the interpretability of models. As algorithms become more powerful and make predictions with better accuracy, it becomes increasingly important to understand how and why a prediction is made. Without interpretability and explainability, it would be difficult for the users to trust the predictions of real-life applications of AI. 
 
-This book takes an in-depth approach to presenting the fundamentals of interpretable and explainable AI through mathematical theory and practical use cases. The content is split into five parts: 1) pre-hoc techniques involving exploratory data analysis, visualization and feature engineering, 2) intrinsic and interpretable machine learning, 3) model-agnostic methods, 4) explainable deep learning methods and 5) A survey of interpretable and explainable methods applied to time series, natural language processing and computer vision.
+This book takes an in-depth approach to presenting the fundamentals of interpretable and explainable AI through mathematical theory and practical use cases. The content is split into five parts:
+1. pre-hoc techniques involving exploratory data analysis, visualization and feature engineering 
+2. intrinsic and interpretable machine learning
+3. model-agnostic methods
+4. explainable deep learning methods
+5. A survey of interpretable and explainable methods applied to time series, natural language processing and computer vision.
 
 The field of Explainable AI addresses one of the most significant shortcomings of machine learning and deep learning algorithms today: the interpretability of models. As algorithms become more powerful and make predictions with better accuracy, it becomes increasingly important to understand how and why a prediction is made. Without interpretability and explainability, it would be difficult for the users to trust the predictions of real-life applications of AI.
 
