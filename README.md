@@ -5,8 +5,6 @@
 
 ![Image of the cover for Explainable Artificial Intelligence](images/ExplainableAI.jpg)
 
-The field of Explainable AI addresses one of the most significant shortcomings of machine learning and deep learning algorithms today: the interpretability of models. As algorithms become more powerful and make predictions with better accuracy, it becomes increasingly important to understand how and why a prediction is made. Without interpretability and explainability, it would be difficult for the users to trust the predictions of real-life applications of AI. 
-
 This repository contains the case studies (data and code) and errata for the book Explainable Artificial Intelligence, An Introduction to XAI. It serves as:
 - Single resource addressing the theory and practice of interpretability and explainability techniques using case studies
 - Covers exploratory data analysis, feature importance, interpretable algorithms, and model agnostic techniques
@@ -14,10 +12,12 @@ This repository contains the case studies (data and code) and errata for the boo
 
 The Springer Nature website for the book is: https://www.springer.com/us/book/9783030833558
 
-The book can be purchased from Amazon at: https://www.amazon.com/MOXIC-Abstract-Rectangular-Children-Anti-Slip/dp/3030833550
+The book can be purchased from Amazon at: https://www.amazon.com/dp/3030833550
 
  
 ## About This Book
+
+The field of Explainable AI addresses one of the most significant shortcomings of machine learning and deep learning algorithms today: the interpretability of models. As algorithms become more powerful and make predictions with better accuracy, it becomes increasingly important to understand how and why a prediction is made. Without interpretability and explainability, it would be difficult for the users to trust the predictions of real-life applications of AI. 
 
 This book takes an in-depth approach to presenting the fundamentals of interpretable and explainable AI through mathematical theory and practical use cases. The content is split into five parts: 1) pre-hoc techniques involving exploratory data analysis, visualization and feature engineering, 2) intrinsic and interpretable machine learning, 3) model-agnostic methods, 4) explainable deep learning methods and 5) A survey of interpretable and explainable methods applied to time series, natural language processing and computer vision.
 
