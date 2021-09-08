@@ -1,11 +1,11 @@
-# Explainable Artificial Intelligence: An Introduction to XAI
+# Explainable Artificial Intelligence: An Introduction to Interpretable XAI
 
 ## By Uday Kamath and John Chih Liu
 
 
 ![Image of the cover for Explainable Artificial Intelligence](images/ExplainableAI.jpg)
 
-This repository contains the case studies (data and code) and errata for the book Explainable Artificial Intelligence, An Introduction to XAI. It serves as:
+This repository contains the case studies (data and code) and errata for the book Explainable Artificial Intelligence, An Introduction to Interpretable XAI. It serves as:
 - Single resource addressing the theory and practice of interpretability and explainability techniques using case studies
 - Covers exploratory data analysis, feature importance, interpretable algorithms, and model agnostic techniques
 - Includes over 220 color figures, tables and charts, and Git repos with data and Google colab notebooks for each chapter
